@@ -1,0 +1,7 @@
+{
+  "name": "SafetyLens - Elderly Care Incident Tracker",
+  "description": "AI-powered accident report scanner for nursing homes. Captures reports, extracts key data, analyzes causes, and exports for data analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
